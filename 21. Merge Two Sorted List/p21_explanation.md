@@ -18,5 +18,5 @@ Output: [1,1,2,3,4,4]
 >
 > 3. Both list1 and list2 are sorted in non-decreasing order.
 
-# The Approach
+### The Approach
 I use a dummy node first and create a new dynamic variable to serve as a node builder that will move each along the list and create a dynamic pointer like linked list would be. I used 2 variables, which output as a head pointer (pointing to the head of the lists after dummy) and current as the node builder. The output variable just stay in state after first iteration, but the current will move along the list until it's null. Return the output.next which is pointing to the value pointer after dummy so excluded the dummy state.
