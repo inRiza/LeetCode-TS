@@ -7,37 +7,38 @@ An input string is valid if:
 3. Every close bracket has a corresponding open bracket of the same type.
  
 Example 1:
-"""bash
+```
 Input: s = "()"
 Output: true
-"""
+```
 
 Example 2:
-"""bash
+```
 Input: s = "()[]{}"
 Output: true
-"""
+```
 
 Example 3:
-"""bash 
+```
 Input: s = "(]"
 Output: false
-"""
+```
 
 Example 4:
-"""bash
+```
 Input: s = "([])"
 Output: true
-"""
+```
 
 Example 5:
-"""bash
+```
 Input: s = "([)]"
 Output: false
-"""
+```
 
-> [!Constraints]:
+> [!WARNING]
 > 1 <= s.length <= 104
+> 
 > s consists of parentheses only '()[]{}'.
 
 ## The Approach
