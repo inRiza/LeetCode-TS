@@ -1,5 +1,10 @@
-> [? Why Typescript]
-> Because I hate JavaScript
+> [!NOTE]
+> My personal leetcode documentation.
 
-> [? Why Go]
-> Because I hate slow living
+
+### Why Typescript?
+Because I hate JavaScript
+
+
+### Why Go?
+Because I hate slow living
