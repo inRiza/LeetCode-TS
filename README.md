@@ -2,9 +2,9 @@
 > My personal leetcode documentation.
 
 
-### Why Typescript?
+### Why TypeScript?
 Because I hate JavaScript
 
 
 ### Why Go?
-Because I hate slow living
+Why not
